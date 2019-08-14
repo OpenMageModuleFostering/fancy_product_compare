@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Arvfc_Fancycompare>
-            <active>false</active>
+            <active>true</active>
             <codePool>local</codePool>
         </Arvfc_Fancycompare>
     </modules>
