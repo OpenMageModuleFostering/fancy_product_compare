@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Fancy Product Compare Magento extension allows the visitors on your Magento store to compare the products in a very convenient way. Product comparison is done in a fancy popup window where user can add the product to cart or wishlist.
